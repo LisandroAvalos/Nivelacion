@@ -1,0 +1,17 @@
+*{
+    color: black;
+}
+body{
+    background-color: aliceblue;
+}
+h1 {
+	color: blue;
+	background-color: gray;
+	margin: 20px;
+}
+form{
+    border: 2px black solid;
+    width: 20%;
+    padding: 15px;
+    text-align: center;
+}
